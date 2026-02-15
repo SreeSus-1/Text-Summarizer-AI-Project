@@ -28,19 +28,6 @@ User Input (Streamlit UI)
 - Requests
 - REST APIs
 
-## 📂 Project Structure
-Text-Summarizer-AI-Project/
-│
-├── frontend/
-│ └── app.py # Streamlit UI
-│
-├── backend/
-│ └── main.py # FastAPI API with Ollama integration
-│
-├── venv/
-├── requirements.txt
-└── README.md
-
 
 ## ⚙️ Installation & Setup
 
